@@ -1,2 +1,2 @@
 # Very Basic Text Based RPG
-# Will update eventually.
+# Won't update eventually
